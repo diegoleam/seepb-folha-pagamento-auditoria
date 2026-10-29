@@ -37,9 +37,9 @@ O projeto foi construído utilizando uma stack moderna em Python:
 ## 📥 Como Baixar e Usar (Versão Portátil)
 Não é necessário ter o Python instalado na sua máquina para rodar a aplicação.
 
-1. Vá até a aba [Releases](../../releases) deste repositório.
-2. Baixe o arquivo executável **`Auditoria_SEE_PB.exe`** compatível com Windows 10 e Windows 11.
-3. Dê dois cliques no aplicativo e comece a extrair os dados.
+1. Abra o arquivo de texto e copie o **link direto de download** fornecido nele.
+2. Baixe o executável **`Auditoria_SEE_PB.exe`** (compatível com Windows 10 e Windows 11).
+3. Salve em qualquer pasta do seu computador e execute o programa diretamente com dois cliques.
 
 ---
 
