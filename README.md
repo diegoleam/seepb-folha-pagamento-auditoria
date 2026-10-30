@@ -9,6 +9,14 @@
 
 ---
 
+## 🎬 Demonstração Prática (Vídeo Tutorial)
+
+Assista ao passo a passo completo de como instalar, configurar e extrair os dados da folha de pagamento utilizando o sistema:
+
+[![Demonstração do Sistema de Auditoria SEE-PB](https://img.youtube.com/vi/qBz8F8nsPWY/maxresdefault.jpg)](https://www.youtube.com/watch?v=qBz8F8nsPWY)
+
+---
+
 ## 🔍 Sobre o Projeto (Otimizado para Busca)
 Procurando por **lista de professores do estado da Paraíba**, **servidores da SEE-PB**, dados de lotação escolar ou consulta de remuneração pública? 
 
@@ -27,17 +35,17 @@ O **Sistema de Auditoria SEE-PB** consome diretamente a API oficial de Dados Abe
 
 ## 🛠️ Tecnologias Utilizadas
 O projeto foi construído utilizando uma stack moderna em Python:
-* **Interface Gráfica (GUI):** `CustomTkinter` (Dark Mode moderno e responsivo).
-* **Processamento de Dados:** `Pandas` (alta performance para manipulação de grandes volumes de dados).
-* **Requisições de Rede:** `Requests` com adaptadores resilientes e política de *Retries* (`HTTPAdapter`).
-* **Automação de Planilhas:** `openpyxl` para estilização e formatação de relatórios em Excel.
+- **Interface Gráfica (GUI):** `CustomTkinter` (Dark Mode moderno e responsivo).
+- **Processamento de Dados:** `Pandas` (alta performance para manipulação de grandes volumes de dados).
+- **Requisições de Rede:** `Requests` com adaptadores resilientes e política de *Retries* (`HTTPAdapter`).
+- **Automação de Planilhas:** `openpyxl` para estilização e formatação de relatórios em Excel.
 
 ---
 
 ## 📥 Como Baixar e Usar (Versão Portátil)
 Não é necessário ter o Python instalado na sua máquina para rodar a aplicação.
 
-1. Abra o arquivo de texto e copie o **link direto de download** fornecido nele.
+1. Abra o arquivo de texto informativo ou acesse a aba de **[Releases](../../releases)** deste repositório.
 2. Baixe o executável **`Auditoria_SEE_PB.exe`** (compatível com Windows 10 e Windows 11).
 3. Salve em qualquer pasta do seu computador e execute o programa diretamente com dois cliques.
 
@@ -51,8 +59,8 @@ Esta ferramenta atua estritamente dentro dos limites da **Lei de Acesso à Infor
 ## 👨‍💻 Desenvolvedor & Contato
 Desenvolvido por **Diego Leam** — Técnico em Informática / Desenvolvedor de Software.
 
-* 💼 Conecte-se comigo no LinkedIn: [Perfil Profissional no LinkedIn](https://www.linkedin.com/in/diegoleam)
-* 🐙 GitHub: [@diegoleam](https://github.com/diegoleam)
+- 💼 Conecte-se comigo no LinkedIn: [Perfil Profissional no LinkedIn](https://www.linkedin.com/in/diegoleam)
+- 🐙 GitHub: [@diegoleam](https://github.com/diegoleam)
 
 ---
 *Tags de Busca: Lista de professores Paraíba, folha de pagamento SEE-PB, servidores públicos PB, transparência Paraíba, API dados abertos PB, auditoria de folha escolar.*
